@@ -1,6 +1,6 @@
 # Landing page MyBike
 
-### [DEMO LINK](https://staner1.github.io/layout_landing-page/) - click on the link to explore the web page
+### [DEMO LINK](https://staner1.github.io/MyBike-landing/) - click on the link to explore the web page
 
 ### [DESIGN LINK](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1) - сlick on the link to view the design
 
