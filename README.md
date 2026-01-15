@@ -23,7 +23,7 @@ MyBike is a single-page, fully responsive website designed to showcase high-tech
 <br>
 
 - <img src="https://raw.githubusercontent.com/staner1/Readme-images/087bbf7828379f785b9cdbbdc37858db931b5a95/images/icons/scss-icon.svg" alt="SCSS" align="center" width="70"/>
-  &nbsp;SCSS was used to enhance the styling process by enabling more efficient and maintainable CSS
+  &nbsp;SCSS was used to enhance the styling process, and styles were compiled to CSS using Sass.
 
 <br>
 
@@ -50,6 +50,21 @@ You need to have the following programs installed on your computer:
 
 - Open the project folder using a code editor.
 
-- Run the command: `npm install`.
+- Open the project folder using a live server.
 
-- Then enter: `npm start`
+---
+### Screenshots:
+
+<img src="./screens/photo_2026-01-15_20-54-28.jpg" alt="2048 Game Screenshot" width="500">
+
+<br></br>
+<img src="./screens/photo_2026-01-15_20-54-30.jpg" alt="2048 Game Screenshot" height="400">
+
+<br></br>
+<img src="./screens/photo_2026-01-15_20-55-45.jpg" alt="2048 Game Screenshot" width="500">
+
+<br></br>
+<img src="./screens/photo_2026-01-15_21-04-56.jpg" alt="2048 Game Screenshot" width="500">
+
+<br></br>
+<img src="./screens/photo_2026-01-15_21-04-58.jpg" alt="2048 Game Screenshot" height="400">
